@@ -84,9 +84,9 @@ Welcome to Options
 Press
 
 """
-print(main_menu)
-main_menu_choice = int(input("select an option: "))
-match(main_menu_choice):
+    print(main_menu)
+    main_menu_choice = int(input("select an option: "))
+    match(main_menu_choice):
 
    case 1:
         print("Phone book")
