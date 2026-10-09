@@ -1,11 +1,3 @@
-main_menu = True
-
-while main_menu:
-
-    main_menu = """
-
-
-
 
 main_menu = """
 
@@ -144,7 +136,6 @@ Press
 1. Memory in use
 2. Type of view
 3. Memory status
-<<<<<<< HEAD
 0. Back
 """
 
