@@ -1,9 +1,7 @@
 
-main_menu = True
+while True:
 
-while main_menu:
-
-    main_menu = """
+def main_menu = """
 
 List of menu functions
 
