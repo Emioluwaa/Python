@@ -19,7 +19,7 @@ def main():
 13. Profiles
 14. Services
 15. SIM services
-16. Shutting down......"""
+0. Shutting down......"""
 
         print(main_menu)
 
@@ -62,9 +62,6 @@ def main():
                 print("Services\n")
             case 15:
                 print("SIM services\n")
-            case 16:
-                print("Shutting down......")
-                break
             case 0:
                 print("Shutting down......")
                 break
