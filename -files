@@ -1,0 +1,175 @@
+[33mcommit 3c405995994e0a0c1b5c39fd356ed050eef8d27e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Wed Oct 14 09:30:56 2026 +0100
+
+    Remove testing.py
+
+ Nokia5510py/nokia_Third.py |  5 [32m+[m[31m---[m
+ Nokia5510py/testing.py     | 74 [31m----------------------------------------------[m
+ 2 files changed, 1 insertion(+), 78 deletions(-)
+
+[33mcommit 54b8412aa43b8db742a587c20ab6036960d2c24d[m
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Mon Oct 12 21:16:11 2026 +0100
+
+    Listpy
+
+ Listpy/list_of_words.py  | 7 [32m+++++++[m
+ Listpy/random_numbers.py | 7 [32m+++++++[m
+ 2 files changed, 14 insertions(+)
+
+[33mcommit 2c24e75ece97b187e3f55bb5a30e4c40f0471291[m
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Sun Oct 11 09:17:45 2026 +0100
+
+    Update python task
+
+ Interest.py                |  12 [32m+[m
+ Missing_code.py            |   4 [32m+[m
+ Nokia5510py/NokiaOne.py    |   6 [32m+[m[31m-[m
+ Nokia5510py/nokia_Third.py | 627 [32m+++++++++++++++++++++++++++++++++++++++++++++[m
+ Nokia5510py/testing.py     |  74 [32m++++++[m
+ Statements.py              |  11 [32m+[m
+ SumEvenSquares.java        |  30 [32m+++[m
+ TimesTable.py              |  11 [32m+[m
+ add_two_number.py          |  29 [32m+++[m
+ kata.py                    |  45 [32m++++[m
+ maximum_number.py          |  16 [32m++[m
+ minimum.py                 |  11 [32m+[m
+ 12 files changed, 872 insertions(+), 4 deletions(-)
+
+[33mcommit a0bc279e62a6b2b30e630da339bdbc00a512e781[m
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Fri Oct 9 08:34:48 2026 +0100
+
+    Updated python files and fixed bugs
+
+ Kata/Kata.py | 51 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 51 insertions(+)
+
+[33mcommit 34cde5c4e7e8883816cbea5b720da68ae9c4669c[m
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Fri Oct 9 08:16:17 2026 +0100
+
+    First push
+
+ Nokia5510py/Nokia.py    |   6 [32m+[m[31m-[m
+ Nokia5510py/NokiaOne.py | 648 [32m++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 2 files changed, 651 insertions(+), 3 deletions(-)
+
+[33mcommit aad7f97dcb7f75818f570b3f543a0969e22736e8[m
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Fri Oct 9 07:30:19 2026 +0100
+
+    First push
+
+ Even_number.py                          |  7 [32m+++[m
+ Nokia5510py/Nokia.py                    |  9 [31m----[m
+ Reverse.py                              | 11 [32m+++++[m
+ Roasted Cornpy/add_to_string.py         | 16 [32m++++++[m
+ Roasted Cornpy/count_word.py            | 10 [32m++++[m
+ Roasted Cornpy/length_of_word.py        | 11 [32m+++++[m
+ Roasted Cornpy/maximum_number.py        | 16 [32m++++++[m
+ Roasted Cornpy/maximum_word.py          | 14 [32m++++++[m
+ Roasted Cornpy/minimum.py               | 16 [32m++++++[m
+ Roasted Cornpy/square_of_numbers.py     | 12 [32m+++++[m
+ Roasted Cornpy/sum_square_of_numbers.py | 13 [32m+++++[m
+ Roasted_corn.py                         | 88 [32m+++++++++++++++++++++++++++++++++[m
+ function_testing.py                     |  8 [32m+++[m
+ prime_number.py                         |  4 [32m++[m
+ 14 files changed, 226 insertions(+), 9 deletions(-)
+
+[33mcommit 8fe08e1d32727a199cf2ae70b7b3d40fa82c9e7a[m
+Merge: 05d5e3e f40ec84
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Wed Sep 30 06:32:47 2026 +0100
+
+    Resolve merge conflict in Nokia.py
+
+[33mcommit 05d5e3eacf1d0ff774d78df3992ce7208971a993[m
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Wed Sep 30 06:19:34 2026 +0100
+
+    Add Nokia.py
+
+ Nokia5510py/Nokia.py | 898 [32m++++++++++++++++++++++++++++++++++[m[31m-----------------[m
+ 1 file changed, 600 insertions(+), 298 deletions(-)
+
+[33mcommit f40ec8427631167b64b0a3b60d164551ce04006d[m
+Author: Emioluwaa <michealo9593@icloud.com>
+Date:   Mon Sep 21 18:39:10 2026 +0100
+
+    Update header for Python section in README
+
+ README.md | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 096f121a4d5b8432b287cb6f1e264e95a28cbad9[m
+Author: Emioluwaa <michealo9593@icloud.com>
+Date:   Mon Sep 21 18:37:55 2026 +0100
+
+    Delete Assignment.py
+    
+    a mistake
+
+ Assignment.py | 99 [31m-----------------------------------------------------------[m
+ 1 file changed, 99 deletions(-)
+
+[33mcommit 2e485497fd458ff87f8180403fc36442feeb4637[m
+Author: Emioluwaa <michealo9593@icloud.com>
+Date:   Mon Sep 21 09:28:15 2026 +0100
+
+    Add files via upload
+
+ Nokia5510py/Nokia.py | 427 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 427 insertions(+)
+
+[33mcommit 23eb050a26c6eeddc95cbd53e3ad62cf104bb7e2[m
+Author: Emioluwaa <michealo9593@icloud.com>
+Date:   Mon Sep 21 09:27:07 2026 +0100
+
+    Add files via upload
+
+ Assignment.py       | 99 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ Catalyst.py         | 10 [32m++++++[m
+ Color.py            | 13 [32m+++++++[m
+ Favorite_color.py   | 11 [32m++++++[m
+ Favourite number.py | 10 [32m++++++[m
+ Input.py            | 71 [32m++++++++++++++++++++++++++++++++++++++[m
+ Palindrome.py       |  6 [32m++++[m
+ Saving.py           |  6 [32m++++[m
+ Square.py           |  9 [32m+++++[m
+ String.py           |  9 [32m+++++[m
+ Temperature.py      | 10 [32m++++++[m
+ Total_bill.py       | 27 [32m+++++++++++++++[m
+ 12 files changed, 281 insertions(+)
+
+[33mcommit 2698e0a5c56a172cc12b8caece1140c2ce9534ef[m
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Mon Sep 21 08:22:12 2026 +0100
+
+    Python Tasks
+
+ Assignment.py        |  99 [32m++++++++++++[m
+ Catalyst.py          |  10 [32m++[m
+ Color.py             |  13 [32m++[m
+ Favorite_color.py    |  11 [32m++[m
+ Favourite number.py  |  10 [32m++[m
+ Input.py             |  71 [32m+++++++++[m
+ Nokia5510py/Nokia.py | 427 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ Palindrome.py        |   6 [32m+[m
+ Saving.py            |   6 [32m+[m
+ Square.py            |   9 [32m++[m
+ String.py            |   9 [32m++[m
+ Temperature.py       |  10 [32m++[m
+ Total_bill.py        |  27 [32m++++[m
+ 13 files changed, 708 insertions(+)
+
+[33mcommit 2298f7e8e34623d1edc4aefa6c9ae6260ee36914[m
+Author: Emioluwaa <michealo9593@gmail.com>
+Date:   Mon Sep 21 05:12:11 2026 +0100
+
+    first commit
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
